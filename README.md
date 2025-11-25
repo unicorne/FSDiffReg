@@ -1,3 +1,9 @@
+# FSDIFFREG
+
+
+
+
+
 # MICCAI 2023: FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images
 
 This repository is the official implementation of "FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images".
